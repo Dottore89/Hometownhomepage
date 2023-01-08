@@ -53,6 +53,11 @@ img {
     width: 75px;
 }
 
+.activity-img:hover {
+    transform: scale(2);
+    border: 
+}
+
 #activity {
     margin: 50px;
 }
@@ -119,14 +124,9 @@ img {
     width: 150px;
 }
 
-#sign {
+#mapouter {
     display: flex;
-}
-
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    justify-content: center;
+    color: #3472B6;
+    background: linear-gradient(#CFDAE2, #3472B6);
 }
