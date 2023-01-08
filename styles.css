@@ -84,14 +84,13 @@ img {
 #guide-container {
     display: flex;
     justify-content: center;
-    margin: 100px 0px;
+    background: linear-gradient(#3472B6, #CFDAE2);
 }
 
 #card {
     display: flex;
     justify-content: space-around;
     width: 400px;
-    background: #9EA5A9;
     border-bottom: 5px solid #9EA5A9;
     border-radius: 4px;
     padding: 20px 10px;
